@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "package json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varteaga5/npm-lab.git"
+  },
+  "author": "vcntx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varteaga5/npm-lab/issues"
+  },
+  "homepage": "https://github.com/varteaga5/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
